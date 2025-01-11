@@ -5,3 +5,4 @@
 # Day 1 -- 11th Jan
 -- Set up enviroment for github & 100 days bootcamp along with Jose zero to hero python course
 -- Completed Day 1 of Angela's 100 days bootcamp
+-- Git wasn't config so missed two days yesterday
