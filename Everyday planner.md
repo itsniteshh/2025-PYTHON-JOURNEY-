@@ -7,3 +7,5 @@
 -- Completed Day 1 of Angela's 100 days bootcamp 
 -- Project 1 - Band Name Generator
 -- Git wasn't config so missed two days 
+
+# Day 2 -- 
