@@ -8,4 +8,4 @@
 -- Project 1 - Band Name Generator
 -- Git wasn't config so missed two days 
 
-# Day 2 -- 
+# Day 2 -- 15th Jan
