@@ -9,3 +9,7 @@
 -- Git wasn't config so missed two days 
 
 # Day 2 -- 15th Jan
+-- Completed Day 2 of 100 days challenge
+
+# Day 3 -- 16th Jan
+-- Completed Day 3 of 100 days challenge
