@@ -10,6 +10,11 @@
 
 # Day 2 -- 15th Jan
 -- Completed Day 2 of 100 days challenge
+-- Project 2 -- Bill split program
 
 # Day 3 -- 16th Jan
 -- Completed Day 3 of 100 days challenge
+-- Project 3 -- Treasure island 
+
+# Day 4 -- 17th Jan
+-- 
