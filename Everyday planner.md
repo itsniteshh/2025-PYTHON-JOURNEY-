@@ -17,4 +17,8 @@
 -- Project 3 -- Treasure island 
 
 # Day 4 -- 17th Jan
--- 
+-- Completed Day 4 of 100 days challenge
+-- Project 4 - Rock, Papers, scissors
+-- Completed 2 codewars kata problems
+
+# Day 5 -- 18th Jan
