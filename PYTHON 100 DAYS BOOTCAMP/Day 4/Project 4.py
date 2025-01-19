@@ -34,21 +34,25 @@ game = [rock, paper, scissors]
 
 # assigning guess to computer
 com_guess = random.randint(1, len(game))-1
+print(game[com_guess])
 
 #user_input and assigning guess
 #user_guess = int(input("Enter your guess:\n1 for rock, 2 for paper, 3 for scissors\n"))-1
-user_guess = game[int(input("Enter your guess:\n1 for rock, 2 for paper, 3 for scissors\n"))-1]
-print(f"You chose: {user_guess}")
-print(f"Com chose: {game[com_guess]}")
+user_guess = int(input("Enter your guess:\n1 for rock, 2 for paper, 3 for scissors\n"))-1
+if user_guess > 0 and user_guess <=3:
+    print(f"You chose: {game[user_guess]}")
+
 
 #game logic
 if user_guess == com_guess:
     print(f"Same hand used")
-elif user_guess == "rock" and com_guess == "scissors":
+elif user_guess > 3 or user_guess <0:
+    print("Invalid number")
+elif user_guess == 0 and com_guess == 2:
     print("You win")
-elif user_guess == "scissors" and com_guess == "paper":
-    print("You win")
-elif user_guess == "paper" and com_guess == "rock":
-    print("You win")
-else:
-    print("Com wins!")
+elif com_guess == 0 and user_guess == 2:
+    print("You Lose")
+elif com_guess > user_guess:
+    print("You lose!")
+elif user_guess > com_guess:
+    print("You win!")

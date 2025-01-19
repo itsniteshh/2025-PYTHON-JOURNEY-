@@ -22,3 +22,7 @@
 -- Completed 2 codewars kata problems
 
 # Day 5 -- 18th Jan
+-- Completed Day 5
+
+# Day 6 -- 19th Jan
+-- Completed Day 6
