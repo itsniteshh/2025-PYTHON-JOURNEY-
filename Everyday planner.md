@@ -30,3 +30,8 @@
 -- Completed Day 6
 -- Learnt about while loops & Functions
 -- Project 6 -- Hurdle Loop Challenge
+-- Completed Warmup and Level 1 python exerciese fom Python Zero to Hero bootcamp
+- Solved 2 kata problems
+
+# Day 7 -- 20th Jan
+- 
