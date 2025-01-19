@@ -28,4 +28,5 @@
 
 # Day 6 -- 19th Jan
 -- Completed Day 6
--- Learnt about while loops
+-- Learnt about while loops & Functions
+-- Project 6 -- Hurdle Loop Challenge
