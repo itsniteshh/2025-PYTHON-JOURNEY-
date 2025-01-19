@@ -18,11 +18,14 @@
 
 # Day 4 -- 17th Jan
 -- Completed Day 4 of 100 days challenge
--- Project 4 - Rock, Papers, scissors
+-- Project 4 - Rock, Papers, scissors (took help because of game's logic)
 -- Completed 2 codewars kata problems
 
 # Day 5 -- 18th Jan
 -- Completed Day 5
+-- Project 5 -- Random Password generator
+-- Learnt about for loops and range()
 
 # Day 6 -- 19th Jan
 -- Completed Day 6
+-- Learnt about while loops
