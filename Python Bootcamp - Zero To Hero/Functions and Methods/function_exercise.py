@@ -39,5 +39,48 @@ def almost_there(n):
     """returns true if n is within 10 of either 100 or 200"""
     return abs(100- n) <= 10 or abs(200 - n) <= 10
 print(almost_there(180))
-'''
+
 # Level 2
+
+def has_33(nums): #this one is pending
+    """given a list of ints, return TRUE if the array contains 3 next to a 3"""
+    count = 0
+    for n in nums:
+        if n == 3:
+            count += 1
+print(has_33([1, 3, 3]))
+
+def paper_doll(text):
+    """return a string where for every character in the original there are 3 char"""
+    final = ""
+    for i in text:
+        i *= 3
+        final += i
+    return final
+print(paper_doll("Hello"))
+
+def blackjack(a, b, c):
+    """given 3 int between 1 and 11, if their sum is less than or equal to 21, return their sum.
+        If their sum exceeds 21 and there's an 11, reduce the total sum by 10. Finally if sum even after
+            adjustment exceeds 21, return BUST"""
+    total = a+b+c
+    
+    if total <= 21:
+        return total
+    elif total >= 21 and (a == 11 or b == 11 or c == 11):
+        total -= 10
+        
+        if total >= 21:
+            return "BUST"
+        else:
+            return total
+    else:
+        return "BUST"
+print(blackjack(9, 9, 11))
+'''
+def summer_69(arr): #incomplete
+    """return the sum of nums, except ignore sections of numbers starting with a 6
+        and extending to the next 9. (every 6 will definately be followed by a 9. Return 0 for no nums)"""
+    if len(arr) == 0:
+        return 0
+print(summer_69([1, 3, 5]))

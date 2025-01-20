@@ -9,6 +9,7 @@ print(logo)
 
 # TODO- 4 - making blanks the size of choosen_word
 guessed_word = []
+#display = ""
 
 for _ in choosen_word:
     guessed_word += "_"
@@ -25,10 +26,12 @@ while end_of_game:
     #  is, "Wrong" if it's not.
     
     for count, word in enumerate(choosen_word):
-        if guess == word:
+        if word == guess:
             guessed_word[count] = word
+            display += word
     
     print(guessed_word)
+    #print(display)
     if guess not in choosen_word:
         lives -= 1
         print(f"{guess} not in our guessed word")

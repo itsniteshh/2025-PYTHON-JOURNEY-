@@ -36,4 +36,7 @@
 # Day 7 -- 20th Jan
 - Completed Day 7
 - Project 7 -- Built Hangman game on my own 
+- Completed Level 2 problems and few homework problems
+
+# Day 8 -- 21st Jan
 - 
