@@ -6,15 +6,13 @@ from hangman_art import logo, stages
 
 choosen_word = random.choice(word_list)
 print(logo)
-print(choosen_word)
 
 # TODO- 4 - making blanks the size of choosen_word
-guessed_word = ""
+guessed_word = []
 
 for _ in choosen_word:
     guessed_word += "_"
-print(guessed_word)
-
+    
 # TODO- 5 - running a while loop
 end_of_game = True
 lives = 6

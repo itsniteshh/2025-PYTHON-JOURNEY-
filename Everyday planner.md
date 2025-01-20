@@ -34,4 +34,6 @@
 - Solved 2 kata problems
 
 # Day 7 -- 20th Jan
-- Built Hangman game on my own 
+- Completed Day 7
+- Project 7 -- Built Hangman game on my own 
+- 
