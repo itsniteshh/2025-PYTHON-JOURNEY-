@@ -37,6 +37,7 @@
 - Completed Day 7
 - Project 7 -- Built Hangman game on my own 
 - Completed Level 2 problems and few homework problems
+- Solved 4 kata
 
 # Day 8 -- 21st Jan
 - 
