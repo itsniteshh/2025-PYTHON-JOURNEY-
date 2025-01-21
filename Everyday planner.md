@@ -40,4 +40,6 @@
 - Solved 4 kata
 
 # Day 8 -- 21st Jan
-- 
+- Completed Day 8
+- Project 8 - Built Caesar Cipher Game
+
