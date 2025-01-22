@@ -36,10 +36,13 @@
 # Day 7 -- 20th Jan
 - Completed Day 7
 - Project 7 -- Built Hangman game on my own 
-- Completed Level 2 problems and few homework problems
+- Completed Level 2 problems and few homework problems (Python Zero to Hero)
 - Solved 4 kata
 
 # Day 8 -- 21st Jan
 - Completed Day 8
 - Project 8 - Built Caesar Cipher Game
+- Solved 3 kata 
+- 
 
+# Day 9 -- 22nd Jan

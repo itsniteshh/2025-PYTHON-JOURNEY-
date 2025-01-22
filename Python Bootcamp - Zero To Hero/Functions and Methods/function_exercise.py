@@ -18,9 +18,10 @@ def makes_twenty(n1, n2):
     """given two integers, return True if sum of them is 20 or if one of them is 20, else Return False"""
     return n1 + n2 >= 20 or (n1 == 20 or n2 == 20)
 print(makes_twenty(9, 10))
+'''
 
 # Level 1 problems
-
+'''
 def old_macdonald(name):
     """capitalizes the first and fourth letters of a name"""
     front = name[:3].capitalize()
@@ -39,9 +40,10 @@ def almost_there(n):
     """returns true if n is within 10 of either 100 or 200"""
     return abs(100- n) <= 10 or abs(200 - n) <= 10
 print(almost_there(180))
+'''
 
 # Level 2
-
+'''
 def has_33(nums): #this one is pending
     """given a list of ints, return TRUE if the array contains 3 next to a 3"""
     count = 0
@@ -78,6 +80,8 @@ def blackjack(a, b, c):
         return "BUST"
 print(blackjack(9, 9, 11))
 '''
+
+# Hard level
 def summer_69(arr): #incomplete
     """return the sum of nums, except ignore sections of numbers starting with a 6
         and extending to the next 9. (every 6 will definately be followed by a 9. Return 0 for no nums)"""

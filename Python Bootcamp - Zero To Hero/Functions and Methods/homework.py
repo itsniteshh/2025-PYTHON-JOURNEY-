@@ -5,6 +5,7 @@ def vol(r):
     return volume
 print(vol(2))
 
+
 def ran_check(num, low, high):
     """checks whether a number is in a given range"""
     is_present = None
@@ -14,19 +15,18 @@ def ran_check(num, low, high):
             break
         else:
             is_present = False
-    
     if is_present:
         return f"{num} is in the range of {low} and {high}"
     else:
         return f"{num} not in the range of {low} and {high}"
 print(ran_check(10, 2, 7))
 
+
 def up_low(s):
     """function that accepts a string and calculates the number of upper case
         letter and lower case letters"""
     upper_letters = 0
     lower_letters = 0
-    
     for text in s:
         if text.isupper():
           upper_letters += 1
@@ -37,10 +37,10 @@ def up_low(s):
     return f"No. of Upper case characters: {upper_letters}\nNo. of Lower case characters: {lower_letters}"  
 print(up_low("Hello Mr. Rogers, how are you this fine Tuesday?"))
 
+
 def unique_list(lst):
     """takes a list and returns a new list with unique elements of the first list"""
     new_list = []
-    
     for nums in lst:
         if nums in new_list:
             pass
@@ -48,4 +48,31 @@ def unique_list(lst):
             new_list.append(nums)
     return new_list
 print(unique_list([1, 2, 2, 3, 4, 4, 5, 7, 7, 1, 2, 7]))
+
+
+def multiply(numbers):
+    """multiplies all the numbers in a list"""
+    total = 1
+    for num in numbers:
+        total *= num
+    return total
+print(multiply([1, 2, 3, -4]))
+
+
+def palindrome(s):
+    """a palindrome is a word, phrase or sequence that reads the same forward and backwards
+        eg. nurses run"""
+    return s[::-1].replace(" ", "")      
+print(palindrome("helle h"))
+
+
+import string
+def ispangram(str1, alphabet=string.ascii_lowercase):
+    str_alphabets = []
+    for words in str1.lower().replace(" ", ""):
+        if words not in str_alphabets:
+            str_alphabets += words
+    
+    return "".join(sorted(str_alphabets)) == alphabet
+print(ispangram("The quick brown fox jumps over the lazy dog"))
 '''
