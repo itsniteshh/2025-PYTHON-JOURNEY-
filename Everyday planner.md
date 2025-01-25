@@ -43,9 +43,10 @@
 - Completed Day 8
 - Project 8 - Built Caesar Cipher Game
 - Solved 3 kata 
-- 
 
 # Day 9 -- 22nd Jan
+- Built Blind auction game
+- Completed Day 9
 
 # Day 10 -- 23rd Jan
 
