@@ -45,9 +45,16 @@
 - Solved 3 kata 
 
 # Day 9 -- 22nd Jan
-- Built Blind auction game
+- Project 9 - Built Blind auction game
 - Completed Day 9
 
 # Day 10 -- 23rd Jan
+- Completed Day 10
+- Built Project 10 - Calculator Program
 
-# Day 11 -24rth Jan
+# Day 11 -24th Jan
+
+
+# Day 12 - 25th Jan
+
+# Day 13 - 26th Jan
