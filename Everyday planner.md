@@ -63,3 +63,6 @@
 # Day 13 - 26th Jan
 - Completed Day 13
 - Learnt about debugging
+
+# Day 14 - 27th Jan
+- 
