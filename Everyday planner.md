@@ -53,8 +53,12 @@
 - Built Project 10 - Calculator Program
 
 # Day 11 -24th Jan
-
+- Capstone Project 1 - Black Jack Program
+- Completed Day 11
 
 # Day 12 - 25th Jan
+- Completed Day 12
+- Completed Number Guessing game
 
 # Day 13 - 26th Jan
+- 

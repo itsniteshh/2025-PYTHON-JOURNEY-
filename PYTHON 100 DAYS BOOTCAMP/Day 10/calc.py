@@ -23,17 +23,7 @@ def calculation(n1, n2, operation):
 end_of_game = True
 
 while end_of_game:
-    if another_try == "y":
-        num1 = calculator
-    elif another_try == "n":
-        num1 = float(input("What's the first number?: "))
-    else:
-        end_of_game = False
-        
-        
     operator = input("\n+\n-\n*\n/\nPick an operator: ")
-    if operator != "+" or operator != "-" or operator != "*" or operator != "/":
-        end_of_game = False
         
     another_num = float(input("What's the next number?: "))
     calculator = calculation(num1,another_num, operator)
@@ -41,4 +31,9 @@ while end_of_game:
     
     another_try = input(f"Type 'Y' to continue calculating with {calculator}, or Type 'n' to start a new calc: ").lower()
     
-    
+    if another_try == "quit":
+        end_of_game = False
+    elif another_try == "y":
+        num1 = calculator
+    elif another_try == "n":
+        num1 = float(input("What's the first number?: "))
