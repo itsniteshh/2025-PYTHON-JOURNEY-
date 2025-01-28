@@ -65,4 +65,8 @@
 - Learnt about debugging
 
 # Day 14 - 27th Jan
+- Completed Day 14
+- Project 13 - Higher Lower game
+
+# Day 15 - 28th Jan
 - 
