@@ -61,6 +61,7 @@ def resources_sufficient(want, menu, water, milk, coffee, resources, Money):
                 return False
     
     return True
+
             
 #TODO: 5 - Process money
 def process_money(MENU, resources, hundreds, fifties, tens, fives):
