@@ -85,3 +85,5 @@
 - Completed Data types and Lists exercises from Python crash course book
 
 # Day 22 - 5th Feb
+
+# Day 23 - 6th Feb
