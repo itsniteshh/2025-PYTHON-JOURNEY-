@@ -72,18 +72,7 @@
 - Project 14 - Coffee Machine
 
 # Day 16 - 29th Jan 
-
-# Day 17 - 30
-
-# Day 18 - 1st
-
-# Day 19 - 2nd Feb
-
-# Day 20 - 3rd Feb
-
-# Day 21 - 4th Feb
 - Completed Data types and Lists exercises from Python crash course book
 
-# Day 22 - 5th Feb
-
-# Day 23 - 6th Feb
+# Day 17 - 9th Feb
+- 
