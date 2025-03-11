@@ -7,4 +7,4 @@
 - Completed exercise 5.1 and 5.2
 
 # Day 2 -- 11th March
-- Completed exercise 5.5
+- Completed exercise 5.5, 5.6 & 6.7
