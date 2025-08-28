@@ -5,4 +5,4 @@
 # Day 1 -- 28th July
 - Completed working with list section from python crash course book
 
-# Day 2 -- 29th July
+# Day 0 -- 28th Aug
