@@ -7,3 +7,4 @@
 -- Completed Variables and Data types exercise
 
 # Day 2 -- 21st Oct
+-- Completed Intro and Working with List
