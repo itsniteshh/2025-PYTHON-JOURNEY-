@@ -5,3 +5,5 @@
 # Day 1 -- 20th Oct
 -- Started with Python crash course book
 -- Completed Variables and Data types exercise
+
+# Day 2 -- 21st Oct
