@@ -8,3 +8,6 @@
 
 # Day 2 -- 21st Oct
 -- Completed Intro and Working with List
+
+# Day 3 -- 22nd Oct
+-- Completed Working with Lists
