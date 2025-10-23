@@ -11,3 +11,6 @@
 
 # Day 3 -- 22nd Oct
 -- Completed Working with Lists exercise
+
+# Day 4 -- 23rd Oct
+-- Started with if statements and conditionals
