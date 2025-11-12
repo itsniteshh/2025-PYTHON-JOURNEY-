@@ -14,3 +14,5 @@
 
 # Day 4 -- 23rd Oct
 -- Started with if statements and conditionals
+
+# Day 1 -- 12th Nov
