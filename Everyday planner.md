@@ -16,3 +16,6 @@
 -- Started with if statements and conditionals
 
 # Day 1 -- 12th Nov
+-- Started with if statements  
+
+# Day 2 -- 13th Nov
