@@ -4,3 +4,6 @@
 
 # Day 1 - 16th Nov
 -- Started with Python for everybody course
+
+# Day 2 -- 17th Nov
+-- Started with data types (int, float, strings and string slicing)
