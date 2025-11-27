@@ -7,3 +7,7 @@
 
 # Day 2 -- 17th Nov
 -- Started with data types (int, float, strings and string slicing)
+
+# Day 3 -- 27th Nov
+-- Completed basic data types exercise files
+
