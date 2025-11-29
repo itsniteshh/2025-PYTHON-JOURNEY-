@@ -11,5 +11,8 @@
 # Day 3 -- 27th Nov
 -- Completed basic data types exercise files
 
-# Eay 4 - 28th Nov
+# Day 4 - 28th Nov
 -- Started with conditionals and loops
+
+# Day 5 - 29th Nov
+-- 
