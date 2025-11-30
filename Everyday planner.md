@@ -15,4 +15,6 @@
 -- Started with conditionals and loops
 
 # Day 5 - 29th Nov
--- 
+--
+
+# Day 6 -- 30th Nov
