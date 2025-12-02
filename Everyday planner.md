@@ -18,3 +18,10 @@
 --
 
 # Day 6 -- 30th Nov
+-- For loopsW
+
+# Day 7 - 1st Dec
+-- For and While loops
+
+# Day 8 -- 2nd Dec
+-- Completed statements assements
