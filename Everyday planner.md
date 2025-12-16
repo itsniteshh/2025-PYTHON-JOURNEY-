@@ -25,3 +25,11 @@
 
 # Day 8 -- 2nd Dec
 -- Completed statements assements
+-- Started with Function
+
+# Day 9 -- 15th Dec
+-- Started with functions exercises
+-- Completed warm up and Level 1 challenge and 1 Level 2 challenge questions
+
+# Day 10 - 16th Dec
+-- Completed Level 2 exercises and working on challenging ones
