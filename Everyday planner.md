@@ -34,3 +34,9 @@
 # Day 10 - 16th Dec
 -- Completed Level 2 exercises and working on challenging ones
 
+____________________________________________________________________
+
+# Day 1
+-- Comppleted Day 1 of 100 Days of python bootcamp
+-- Project 1 - Band Name Generator
+
