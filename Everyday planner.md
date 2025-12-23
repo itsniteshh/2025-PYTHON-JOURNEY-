@@ -44,3 +44,4 @@ ____________________________________________________________________
 # Day 2  - 24th Dec
 -- Completed Day 2
 -- Project 2 - Tip Calculator
+- Solved 2 kata problems
