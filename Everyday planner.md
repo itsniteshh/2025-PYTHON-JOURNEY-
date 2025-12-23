@@ -39,4 +39,5 @@ ____________________________________________________________________
 # Day 1
 -- Comppleted Day 1 of 100 Days of python bootcamp
 -- Project 1 - Band Name Generator
+-- Solved 2 numerical codewars kata problems
 
