@@ -36,8 +36,11 @@
 
 ____________________________________________________________________
 
-# Day 1
+# Day 1 - 23rd Dec
 -- Comppleted Day 1 of 100 Days of python bootcamp
 -- Project 1 - Band Name Generator
 -- Solved 2 numerical codewars kata problems
 
+# Day 2  - 24th Dec
+-- Completed Day 2
+-- Project 2 - Tip Calculator
