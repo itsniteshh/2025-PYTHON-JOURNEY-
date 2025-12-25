@@ -45,3 +45,5 @@ ____________________________________________________________________
 -- Completed Day 2
 -- Project 2 - Tip Calculator
 - Solved 2 kata problems
+
+# Day 3
