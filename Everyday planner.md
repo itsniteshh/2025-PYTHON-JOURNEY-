@@ -46,4 +46,6 @@ ____________________________________________________________________
 -- Project 2 - Tip Calculator
 - Solved 2 kata problems
 
-# Day 3    
+# Day 3    25th Dec
+-- Completed Day 3 
+-- Project 3 -- Treasure Island Game
