@@ -50,6 +50,9 @@ ____________________________________________________________________
 -- Completed Day 3 
 -- Project 3 -- Treasure Island Game
 
-# Day 4 - 29th Dec
+# Day 4 - 26th Dec
 -- Completed Day 4
 -- Project 4 -- Rock Paper Scissors
+
+# Day 5 - 27th Dec
+-- Completed Day 5
