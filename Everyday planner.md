@@ -56,9 +56,14 @@ ____________________________________________________________________
 
 # Day 5 - 27th Dec
 -- Completed Day 5
--- Project 5 -- Password Generator 
+-- Project 5 - Password Generator 
 
 # Day 6 - 28th Dec
-- Solved 1 kata problems
+-- Solved 2 kata problems
 -- Completed Day 6
- -- Project 6 -- Robot Maze
+-- Project 6 - Robot Maze
+
+ # Day 7 - 29th Dec 
+-- Solved 3 kata problem
+-- Completed Day 7
+-- Project 
