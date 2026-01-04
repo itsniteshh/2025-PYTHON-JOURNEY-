@@ -63,6 +63,7 @@ ____________________________________________________________________
 -- Completed Day 6
 -- Project 6 - Robot Maze
 
+
  # Day 7 - 29th Dec 
 -- Solved 3 kata problem
 -- Completed Day 7
