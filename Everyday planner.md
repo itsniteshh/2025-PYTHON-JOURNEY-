@@ -68,8 +68,8 @@ ____________________________________________________________________
 -- Completed Day 7
 -- Project 7 -
 
-# Day 1 -- 3rd Jan'26
-------  -
+# Day 1 -- 19th Jan 26
+- Completed Variables and data types exercise from Python crash course book
 
 
 
