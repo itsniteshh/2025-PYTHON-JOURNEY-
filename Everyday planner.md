@@ -71,7 +71,11 @@ ____________________________________________________________________
 # Day 1 -- 19th Jan 26
 - Completed Variables and data types exercise from Python crash course book
 
+# Day 2 - 20th Jan
+- Completed Unit 3 of the book
 
+# Day 3 - 21st Jan
+- Started with Unit 4, working with list and loops
 
 
 
