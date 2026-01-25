@@ -77,6 +77,9 @@ ____________________________________________________________________
 # Day 3 - 21st Jan
 - Started with Unit 4, working with list and loops
 
+# Day 4 -- 25th Jan
+ -- demo
+
 
 
 
