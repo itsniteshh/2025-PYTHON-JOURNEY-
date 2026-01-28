@@ -15,7 +15,11 @@
  -- demo
 
  # Day 5 -- 27th Jan
+-- Started with Unit 4, list and loop
 
+# Day 6 -- 28th Jan
+-- Completed unit 4, Loop and Tuples
+-- Started with If statement
 
 
 
