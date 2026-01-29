@@ -23,6 +23,7 @@
 
 # Day 7 -- 29th Jan
 -- Completed Unit 5, IF statements
+-- Completed Unit 6, Dictionaries
 
 
 
