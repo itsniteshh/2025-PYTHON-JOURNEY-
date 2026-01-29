@@ -25,7 +25,8 @@
 -- Completed Unit 5, IF statements
 -- Completed Unit 6, Dictionaries
 
-
+# Day 8 -- 30th Jan
+-- Started with Unit 7, User Input
 
 
 
