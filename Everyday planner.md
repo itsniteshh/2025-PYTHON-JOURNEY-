@@ -21,6 +21,9 @@
 -- Completed unit 4, Loop and Tuples
 -- Started with If statement
 
+# Day 7 -- 29th Jan
+-- 
+
 
 
 
