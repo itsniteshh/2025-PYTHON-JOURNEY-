@@ -6,6 +6,7 @@
 -- Completed git setup
 -- Started with Python crash course book
   
+# Day 2 -- 2nd Feb
 
 
   
