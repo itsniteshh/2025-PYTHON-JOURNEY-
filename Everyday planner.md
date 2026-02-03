@@ -6,6 +6,9 @@
 --
   
 # Day 2 -- 2nd Feb
--- 
+-- Started with Unit 7, while loop
+
+# Day 3 -- 3rd Feb
+-- Completed Unit 7, While loop
 
   
