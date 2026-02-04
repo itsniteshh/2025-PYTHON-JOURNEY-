@@ -12,4 +12,7 @@
 -- Completed Unit 7, While loop
 -- Started with Unit 8, Functions
 
+# Day 4 -- 4th Feb
+-- 
+
   
