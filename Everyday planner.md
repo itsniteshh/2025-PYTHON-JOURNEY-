@@ -10,7 +10,6 @@
 
 # Day 3 -- 3rd Feb
 -- Completed Unit 7, While loop
--- Started with Unit 8, Functions
 
 # Day 4 -- 4th Feb
 -- Working on Unit 8, Functions
@@ -18,4 +17,5 @@
 # Day 5 -- 5th Feb 
 -- Working on Unit 8, Functions
 
+# Day 6
   
