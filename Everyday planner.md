@@ -3,3 +3,7 @@
 (NOTE: starting with Angela Yu's course from Day 1 so creating this new repo and started as Day 1 although I'm coding since 23rd Dec)
 
 # Day 1 -- 9th March 2026
+-- Completed Python Functions chapter
+
+# Day 2 -- 10th March 2026
+-
