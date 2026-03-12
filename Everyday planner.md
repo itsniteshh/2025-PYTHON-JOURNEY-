@@ -6,4 +6,7 @@
 -- Completed Python Functions chapter
 
 # Day 2 -- 10th March 2026
--
+- Started with Class chapter
+
+# Day 3 - 11th March 
+- 

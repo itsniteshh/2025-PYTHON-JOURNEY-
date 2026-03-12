@@ -17,4 +17,4 @@ class Restaurant():
 
 r1 = Restaurant("Nitesh", "chinese")
 print(f"My restaurant's name is {r1.name}")
-print(f"Our restaruant specializes in {r1.cuisine}")
+print(f"Our restaruant specializes in {r1.cuisine}")Yep
