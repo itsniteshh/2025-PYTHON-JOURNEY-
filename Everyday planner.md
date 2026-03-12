@@ -9,4 +9,4 @@
 - Started with Class chapter
 
 # Day 3 - 11th March 
-- 
+- Completed 4 hours Python for beginners Youtube tutorial by Mike
