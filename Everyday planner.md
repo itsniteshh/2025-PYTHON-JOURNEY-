@@ -9,4 +9,10 @@
 - Started with Class chapter
 
 # Day 3 - 11th March 
-- Completed 4 hours Python for beginners Youtube tutorial by Mike
+- Started 4 hours Python for beginners Youtube tutorial by Mike
+
+# Day 4 - 12th March 
+- Halfway through Youtube tutorial
+
+# Day 5 - 13th March
+- 
