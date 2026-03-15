@@ -3,9 +3,12 @@
 vowels = ["a", "e", "i", "o", "u"]
 
 text = input("Enter the word to be translated: ")
+translation = ""
 
 for words in text:
     if words in vowels:
-        text[words] = "g"
+        translation += "g"
+    else:
+        translation += words
 
-print(text)
+print(translation)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

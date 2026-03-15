@@ -16,3 +16,7 @@
 
 # Day 5 - 13th March
 - Build random guess game
+- Built Translator game
+
+# Day 6 - 14th march
+- Completed Mike Beginner Python Tutorial Tutorial
