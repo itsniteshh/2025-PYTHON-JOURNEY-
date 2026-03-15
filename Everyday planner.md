@@ -20,3 +20,5 @@
 
 # Day 6 - 14th march
 - Completed Mike Beginner Python Tutorial Tutorial
+- Started with Python Intermediate/Advance Python from FreeCodeCamp
+
