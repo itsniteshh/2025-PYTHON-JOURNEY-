@@ -16,9 +16,14 @@
 
 # Day 5 - 13th March
 - Build random guess game
-- Built Translator game
 
 # Day 6 - 14th march
+- Built Translator game
+
+# Day 7 - 15th March
 - Completed Mike Beginner Python Tutorial Tutorial
+
+# Day 8 - 16th March
 - Started with Python Intermediate/Advance Python from FreeCodeCamp
+- Started with Python Zero to Hero Bootcamp and completed Begginer and Level 1 Function problems
 
