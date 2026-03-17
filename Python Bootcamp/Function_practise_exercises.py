@@ -67,23 +67,85 @@ def almost_there(n):
     return abs(n - 100) <= 10
 
 print(almost_there(209))
-"""
 
 # Level 2 problems
 
 def laughter(pattern, text):
     #counts the number of times a given pattern appears in a string, including overlap
-    new_text = []
-    new_pattern =[]
     counter = 0
+    p_length = len(pattern)
 
-    for t in text:
-        for p in pattern:
-            if text[t] == pattern[p]:
-                counter += 1
-
-
+    for t in range(len(text) - p_length + 1):
+        if text[t: t + p_length] == pattern:
+            counter += 1
 
     return counter
-
 print(laughter("hah", "hahahah"))
+
+def paper_doll(text):
+    # given a string, return a string where for every character in the original there are three characters
+    new_text = ""
+    for t in text:
+        new_text += t * 3
+    
+    return new_text
+print(paper_doll("Hello"))
+
+
+def blackjack(a, b, c):
+    # given three integers between 1 and 11, if their sum if less than or equal to 21, return their sum. 
+    # If their sum exceeds 21 and there's an eleven, reduce the sum by 10. Finally, if the sum (even after adjustment) exceeds 21, return "BUST".
+    total = a + b + c
+
+    if a == 11 or b == 11 or c == 11:
+        total -= 10
+    
+    if total <= 21:
+        return total
+    
+    else:
+        return "BUST"
+    
+print(blackjack(9, 9, 11))
+
+
+def summer_69(arr):
+    # return the sum of numbers in an array, except ignore sections of numbers starting with a 6
+    # and extending to the next 9. Return 0 for no numbers
+
+    pattern = [6, 9]
+
+
+# CHALLENGING PROBLEM
+
+def spy_game(nums):
+    # Takes a list of int and returns True if it contains 007 in order
+    order = ""
+    for n in nums:
+        if n == 0:
+            order += str(n)
+        elif n == 7:
+            order += str(n)
+
+    return order == "007" 
+
+print(spy_game([1, 7, 2, 0, 3, 4, 5, 0]))
+
+
+def count_primes(num):
+    # returns the number of prime numbers that exist up to and inccluding a given number
+    counter = 0
+
+    while 
+"""
+
+# Extra Hard or just for fun
+
+def print_big(letter):
+    # takes a single letter and returns a 5x5 representation of that letter
+
+    big = {
+        "a": '    *  '
+        '        *  *'
+                        
+    }

@@ -27,3 +27,5 @@
 - Started with Python Intermediate/Advance Python from FreeCodeCamp
 - Started with Python Zero to Hero Bootcamp and completed Begginer and Level 1 Function problems
 
+# Day 9 - 17th March
+- Completed Functions problem set, couldn't solve 2 problems (1 from Level 2 and 1 from challenger )
