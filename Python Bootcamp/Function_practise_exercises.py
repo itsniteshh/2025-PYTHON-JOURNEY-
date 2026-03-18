@@ -114,8 +114,19 @@ def summer_69(arr):
     # and extending to the next 9. Return 0 for no numbers
 
     pattern = [6, 9]
+"""
 
+def has_33(nums):
+    # returns True if the array contains a 3 next to a 3 somewhere
+    
+    for i in range(0, len(nums) - 1):
+        if nums[i] == 3 and nums [i + 1] == 3:
+            return True
+    return False
 
+print(has_33([1, 3, 7, 3]))
+
+"""
 # CHALLENGING PROBLEM
 
 def spy_game(nums):
