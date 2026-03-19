@@ -108,25 +108,41 @@ def blackjack(a, b, c):
     
 print(blackjack(9, 9, 11))
 
-
 def summer_69(arr):
     # return the sum of numbers in an array, except ignore sections of numbers starting with a 6
     # and extending to the next 9. Return 0 for no numbers
+    add = True
+    total = 0
 
-    pattern = [6, 9]
-"""
+    for nums in arr:
+        while add:
+            if nums != 6:
+                total += nums
+                break
+            else:
+                add = False
+        while not add:
+            if nums != 9:
+                break
+            else:
+                add = True
+                break
+
+    return total
+    
+print(summer_69[1, 3, 5])
 
 def has_33(nums):
     # returns True if the array contains a 3 next to a 3 somewhere
     
-    for i in range(0, len(nums) - 1):
-        if nums[i] == 3 and nums [i + 1] == 3:
+    for i in range (0, len(nums)-1):
+        if nums[i] == 3 and nums[i + 1] == 3:
             return True
     return False
 
-print(has_33([1, 3, 7, 3]))
+print(has_33([1, 3, 3]))
 
-"""
+
 # CHALLENGING PROBLEM
 
 def spy_game(nums):
@@ -141,15 +157,19 @@ def spy_game(nums):
     return order == "007" 
 
 print(spy_game([1, 7, 2, 0, 3, 4, 5, 0]))
+"""
 
 
 def count_primes(num):
     # returns the number of prime numbers that exist up to and inccluding a given number
-    counter = 0
+    how 
+    if num < 2:
+        return 0
+    
+    primes = [2]
 
     while 
 """
-
 # Extra Hard or just for fun
 
 def print_big(letter):
@@ -160,3 +180,4 @@ def print_big(letter):
         '        *  *'
                         
     }
+    """

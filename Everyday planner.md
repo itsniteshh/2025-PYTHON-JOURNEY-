@@ -31,3 +31,6 @@
 - Completed Functions problem set, couldn't solve 2 problems (1 from Level 2 and 1 from challenger )
 
 # Day 10 - 18 March
+- Debugged 2 prblems which I wasn't able to solve
+
+# Day 11 - 19th March
