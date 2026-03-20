@@ -34,3 +34,5 @@
 - Debugged 2 prblems which I wasn't able to solve
 
 # Day 11 - 19th March
+
+# Day 12 - 20th March
