@@ -52,3 +52,7 @@
 # Day 19  - 27th March
 
 # Day 20 - 28th March
+- Started with Automate the boring stuff book
+- Solved 2 projects from the book
+
+# Day 21 -
