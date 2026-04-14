@@ -55,4 +55,7 @@
 - Started with Automate the boring stuff book
 - Solved 2 projects from the book
 
-# Day 21 -
+___________________________________________________________________
+
+# Day 1 - 14th April
+- Started my new journey with Automate the boring stuff book
