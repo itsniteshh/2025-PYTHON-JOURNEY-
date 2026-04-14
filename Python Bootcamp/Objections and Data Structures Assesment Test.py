@@ -13,5 +13,65 @@
 print((4 * 6 + 5)) # 29
 print((4 + 6 * 5)) # 34
 
-print(type(3 + 1.5 + 4)) # 8.5 and type is float"""
+print(type(3 + 1.5 + 4)) # 8.5 and type is float
+
+# square root
+print(89// 9)
+
+#square
+print(7*7)
+
+# strings
+s = "hello"
+print(s[1])
+
+print(s[::-1])
+
+print(s[-1])
+print(s[4])
+"""
+#list
+
+"""
+list1 = []
+list1.append(0)
+list1.append(0)
+list1.append(0)
+print(list1)
+
+list1.insert(0, 0)
+list1.insert(0, 0)
+list1.insert(0, 0)
+print(list1)
+
+list3 = [1, 2, [3, 4, "hello"]]
+list3[2][2] = "goodbye"
+print(list3)
+
+list4 = [5, 4, 3, 6, 1]
+print(sorted(list4))
+
+#Dictionaries
+
+d = {"simple_key": "hello"}
+print(d["simple_key"])
+
+d = {"k1": {"k2": "hello"}}
+print(d["k1"]["k2"])
+
+d = {"k1": [{"nest_key": ["this is deep", ["hello"]]}]}
+print(d["k1"][0]["nest_key"][1][0])
+
+d = {"k1": [1, 2, {"k2": ["this is tricky", {"tough": [1, 2, ["hello"]]}]}]}
+print(d["k1"][2]["k2"][1]["tough"][2][0])
+
+# we cannot sort a dictionary because it contains values in key, values pair
+"""
+
+# Tuples cannot be changed or replaced but list on the other hand are mutable.
+# to create a tuple we use circular brackets
+
+# Sets
+# sets are unique value list hence it cannot store duplicates.
+
 

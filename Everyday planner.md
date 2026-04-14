@@ -59,3 +59,5 @@ ___________________________________________________________________
 
 # Day 1 - 14th April
 - Started my new journey with Automate the boring stuff book
+- Completed exercise 1 of the book and exercise 1 of Python zero to hero bootcamp 
+- Total - 1.3 hrs given
