@@ -67,5 +67,7 @@ ___________________________________________________________________
 - Completed Python statement exercises
 
 # Day 3 - 16th April
+-started with Functions from Python Zero to Hero 
+
+# Day 4 - 17th April
 - 
--
