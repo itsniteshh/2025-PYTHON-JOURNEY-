@@ -63,4 +63,9 @@ ___________________________________________________________________
 - Total - 1.3 hrs given
 
 # Day 2 - 15th April
+- Started with basics data types in depht
+- Completed Python statement exercises
+
+# Day 3 - 16th April
 - 
+-
