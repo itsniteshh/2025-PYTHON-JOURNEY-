@@ -74,4 +74,7 @@ ___________________________________________________________________
 
 # Day 5 - 18th April
 
-# Day 6 - 
+# Day 6 -19th April
+
+# Day 7 - 20th April
+- Completed Python Level 1 exercises
