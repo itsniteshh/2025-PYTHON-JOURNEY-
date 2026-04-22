@@ -81,3 +81,5 @@ ___________________________________________________________________
 
 # Day 8 - 21st April
 - 
+# Day 9 - 22nd April
+- Almost done with Python function from zero to hero course
