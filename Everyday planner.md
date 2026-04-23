@@ -83,3 +83,6 @@ ___________________________________________________________________
 - 
 # Day 9 - 22nd April
 - Almost done with Python function from zero to hero course
+
+# Day 10 - 23rd april
+- working on python function solution
